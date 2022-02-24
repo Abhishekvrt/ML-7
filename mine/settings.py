@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-wdy^&+(t@_a668m*8u*yrzzg025!%18^2u&#%5(no=rii1p_le
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://git.heroku.com/ml-7.git']
 
 
 # Application definition
